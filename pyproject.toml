@@ -1,7 +1,7 @@
 [project]
 name = "vsapp"
 authors = [
-    { name = "bhumika", email = "bhumikd787@gmail.com"}
+    { name = "bhumika", email = "bhumika67@gmail.com"}
 ]
 description = "this is my new app"
 requires-python = ">=3.10"
