@@ -1,6 +1,6 @@
 ## Vsapp
 
-this is my vsapp
+this is my new app
 
 #### License
 

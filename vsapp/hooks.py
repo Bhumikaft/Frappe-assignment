@@ -1,8 +1,8 @@
 app_name = "vsapp"
 app_title = "Vsapp"
 app_publisher = "bhumika"
-app_description = "this is my vsapp"
-app_email = "bhumikad878@gmail.com"
+app_description = "this is my new app"
+app_email = "bhumikd787@gmail.com"
 app_license = "mit"
 # required_apps = []
 
