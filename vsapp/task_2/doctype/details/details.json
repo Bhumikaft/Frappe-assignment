@@ -1,0 +1,128 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-03-21 15:55:03.380141",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "language",
+  "framework",
+  "ides",
+  "applied_date",
+  "initials",
+  "testing_tools",
+  "bug_tracking",
+  "automation_experience",
+  "test_enviroment",
+  "design_tools",
+  "design",
+  "colour_theroy",
+  "typography",
+  "uiux_experience"
+ ],
+ "fields": [
+  {
+   "fieldname": "language",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Language ",
+   "options": "Python\nJavascript\nPHP"
+  },
+  {
+   "fieldname": "framework",
+   "fieldtype": "Read Only",
+   "in_list_view": 1,
+   "label": "Framework",
+   "options": "Django\nReactjs\nLaravel"
+  },
+  {
+   "fieldname": "ides",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "IDEs",
+   "options": "VS code\nIntelliJ IDEA"
+  },
+  {
+   "fieldname": "applied_date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "Applied Date "
+  },
+  {
+   "fieldname": "initials",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Initials"
+  },
+  {
+   "fieldname": "testing_tools",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Testing tools",
+   "options": "Selenium\nAppium\nJUnit"
+  },
+  {
+   "fieldname": "bug_tracking",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Bug tracking ",
+   "options": "Jira\nBugzilla"
+  },
+  {
+   "fieldname": "automation_experience",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "Automation experience "
+  },
+  {
+   "fieldname": "test_enviroment",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Test enviroment"
+  },
+  {
+   "fieldname": "design_tools",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Design tools",
+   "options": "Adobe  Photoshop\nAdobe illustrator\nSketch"
+  },
+  {
+   "fieldname": "design",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Design"
+  },
+  {
+   "fieldname": "colour_theroy",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Colour theroy"
+  },
+  {
+   "fieldname": "typography",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "typography"
+  },
+  {
+   "fieldname": "uiux_experience",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "UI/UX experience"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-03-22 11:28:22.575300",
+ "modified_by": "Administrator",
+ "module": "Task 2",
+ "name": "Details",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
